@@ -1,0 +1,15 @@
+.firstClass, .secondClass, .thirdClass {
+    background-color: #f08080; font-family: 'Verdana', "DejaVu Sans", sans-serif;
+}
+
+#firstID {
+    font-size: 36px; color: #0000ff;
+}
+
+.secondClass {
+    font-size: 24px;
+}
+
+#secondID {
+    background-color: #7fff00; font-size: 24px; font-weight: bold;
+}
