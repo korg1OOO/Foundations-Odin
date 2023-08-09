@@ -1,4 +1,4 @@
-.firstClass, .secondClass, .thirdClass {
+.odd {
     background-color: #f08080; font-family: 'Verdana', "DejaVu Sans", sans-serif;
 }
 
@@ -6,7 +6,7 @@
     font-size: 36px; color: #0000ff;
 }
 
-.secondClass {
+.thirdParagraph {
     font-size: 24px;
 }
 
